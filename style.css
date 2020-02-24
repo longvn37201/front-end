@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 @media (max-width: 75em) {
     html {
-      font-size: 60%;
+      font-size: 110%;
     }
   }
 img{
@@ -150,5 +150,5 @@ margin-bottom: 3rem;}
 body{
     background-color: rgba(128, 128, 128, 0.479);
     font-family: 'Raleway', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
